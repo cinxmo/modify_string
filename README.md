@@ -23,7 +23,7 @@ pipenv shell
 pipenv install --dev
 ```
 
-# Running Locally
+# Usage
 In a terminal, run:
 ```
 uvicorn app.main:app --reload 
